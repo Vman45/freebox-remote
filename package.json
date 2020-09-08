@@ -16,7 +16,7 @@
   "author": "Aurélien Schelcher",
   "license": "MIT",
   "devDependencies": {
-    "electron": "~1.8.2",
+    "electron": "~10.1.1",
     "electron-packager": "^11.1.0"
   },
   "dependencies": {
